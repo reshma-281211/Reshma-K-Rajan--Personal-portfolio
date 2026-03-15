@@ -64,29 +64,56 @@ document.addEventListener('DOMContentLoaded', () => {
         fadeObserver.observe(element);
     });
 
-    // 4. Form Submission Mock
+    // 4. Form Submission via Formspree
     const contactForm = document.getElementById('contactForm');
     if (contactForm) {
-        contactForm.addEventListener('submit', (e) => {
+        // Sync email to hidden _replyto field so you can reply directly
+        const emailInput = document.getElementById('email');
+        const replyToInput = document.getElementById('_replyto');
+        if (emailInput && replyToInput) {
+            emailInput.addEventListener('input', () => {
+                replyToInput.value = emailInput.value;
+            });
+        }
+
+        contactForm.addEventListener('submit', async (e) => {
             e.preventDefault();
             const btn = contactForm.querySelector('.submit-btn');
             const originalText = btn.innerHTML;
 
             btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Sending...';
+            btn.disabled = true;
             btn.style.opacity = '0.8';
 
-            // Simulate network request
-            setTimeout(() => {
-                btn.innerHTML = '<i class="fas fa-check"></i> Sent Successfully!';
-                btn.style.background = '#10b981'; // Success Green
-                btn.style.boxShadow = 'none';
-                contactForm.reset();
+            const formData = new FormData(contactForm);
 
-                setTimeout(() => {
-                    btn.innerHTML = originalText;
-                    btn.style.background = 'var(--accent-gradient)';
-                }, 3000);
-            }, 1500);
+            try {
+                const response = await fetch(contactForm.action, {
+                    method: 'POST',
+                    body: formData,
+                    headers: { 'Accept': 'application/json' }
+                });
+
+                if (response.ok) {
+                    btn.innerHTML = '<i class="fas fa-check"></i> Sent Successfully!';
+                    btn.style.background = '#10b981';
+                    btn.style.boxShadow = 'none';
+                    contactForm.reset();
+                } else {
+                    btn.innerHTML = '<i class="fas fa-times"></i> Failed. Try Again.';
+                    btn.style.background = '#ef4444';
+                }
+            } catch (error) {
+                btn.innerHTML = '<i class="fas fa-times"></i> Network Error.';
+                btn.style.background = '#ef4444';
+            }
+
+            btn.disabled = false;
+            setTimeout(() => {
+                btn.innerHTML = originalText;
+                btn.style.background = 'var(--accent-gradient)';
+                btn.style.boxShadow = '';
+            }, 3500);
         });
     }
 
