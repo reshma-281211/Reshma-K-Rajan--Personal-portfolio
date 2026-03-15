@@ -209,11 +209,11 @@ nav.scrolled {
    Hero Section
    ========================================= */
 #hero {
-    min-height: 100vh;
+    min-height: auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 100px;
+    padding: 120px 5% 70px;
     gap: 50px;
 }
 
