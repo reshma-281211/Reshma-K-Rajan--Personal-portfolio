@@ -213,7 +213,7 @@ nav.scrolled {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 120px 5% 70px;
+    padding: 120px 5% 40px;
     gap: 50px;
 }
 
@@ -329,6 +329,10 @@ nav.scrolled {
 /* =========================================
    About Section
    ========================================= */
+#about {
+    padding-top: 40px;
+}
+
 .about-container {
     display: grid;
     grid-template-columns: 1.5fr 1fr;
