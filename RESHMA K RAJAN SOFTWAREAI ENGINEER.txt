@@ -1,0 +1,52 @@
+RESHMA K RAJAN SOFTWARE/AI ENGINEER reshmarajan1218@gmail.com | +968 78125411 | LinkedIn | Muscat, Oman PROFESSIONAL SUMMARY
+A dedicated professional with 6+ years of experience in software engineering, AI development, and education, adept at building robust web applications, implementing machine learning solutions, and managing ERP systems. Skilled in Python, Java, Node.js, Django, TensorFlow, and React, with a proven ability to lead technical projects, mentor students, and enhance system efficiencies. Committed to leveraging technical expertise and problem-solving abilities to drive innovative software solutions. CORE SKILLS
+Professional Skills: Curriculum Development, Educational Technology, ERP System Management, Robotics Instruction, Project Leadership, Technical Mentoring, Backend Development, Web Application Architecture, Data Analysis, Software Testing
+Soft Skills: Problem-Solving, Communication, Team Collaboration, Adaptability, Mentorship, Critical Thinking, Creative Problem Solving
+Technical Skills: HTML, CSS, JavaScript, Node.js, Django, React, Machine Learning, Data Analysis, Pandas, NumPy, TensorFlow, Antigravity, Cursor, C/C++, Java, Python, MongoDB, MySQL PROFESSIONAL EXPERIENCE
+INDIAN SCHOOL AL MAABELA
+IT Teacher | ERP In-Charge | Robotics Coordinator | Muscat, Oman | January, 2022 – Present
+● Developed and delivered comprehensive computer science and artificial intelligence curricula, significantly improving student engagement and technical proficiency in emerging technologies and modern educational practices.
+● Successfully managed and provided critical support for the school’s Enterprise Resource Planning (ERP) system, ensuring seamless operations for over 1500 students, faculty, and administrative staff members.
+● Orchestrated and supervised robotics and innovation initiatives, guiding student teams to achieve recognition in inter-school technology competitions and fostering a vibrant culture of innovation.
+● Implemented advanced pedagogical methods to enhance learning outcomes, resulting in measurable improvements in student performance on computational thinking assessments and practical application projects.
+CHRISTIAN INSTITUTE OF MANAGEMENT
+Assistant Professor | Bangalore, Hennur | September, 2019-September, 2021
+● Taught diverse computer science subjects, including Programming in C, Java, and Data Structures, to undergraduate students, achieving consistent positive feedback on course evaluations.
+● Mentored over 50 senior students on Python-based research and software development projects, guiding them from initial conception through successful deployment and formal presentation.
+● Developed and updated comprehensive course materials to reflect dynamic industry best practices and emerging technologies, ensuring curriculum relevance for aspiring software engineers.
+● Contributed to academic research initiatives by actively collaborating with faculty on various departmental projects, enhancing the institution's intellectual contributions and practical application opportunities.
+BAZAPAY ONLINE SERVICES PRIVATE LIMITED
+Software Developer | Bangalore, Whitefield | July, 2019 – August, 2019
+● Contributed to the development of robust backend logic and efficient data handling systems, ensuring precise and reliable processing of critical application data during the internship period.
+● Actively participated in rigorous debugging and troubleshooting technical issues within a dynamic development environment, contributing significantly to the rapid resolution of critical system errors.
+● Collaborated effectively with cross-functional team members to implement new features and meticulously maintain existing software, enhancing overall project efficiency and ensuring timely delivery.
+● Adhered strictly to established coding standards and best practices, contributing to the development of maintainable, scalable, and high-quality software solutions for diverse applications.
+PROJECTS
+Ecommerce Web Application
+● Architected and developed a full-stack e-commerce platform using Node.js and MongoDB, enabling a seamless and intuitive online shopping experience for diverse users.
+● Implemented secure user authentication processes and a robust product management system, significantly enhancing administrative control, data integrity, and operational efficiency.
+● Designed a highly responsive and aesthetically pleasing user interface optimized for various devices, achieving a consistent and engaging user experience across mobile and desktop platforms.
+Swiggy Spends Tracker
+● Developed a specialized browser extension enabling users to comprehensively track and vividly visualize their spending habits across multiple prominent food delivery platforms.
+● Created an interactive dashboard featuring detailed monthly spending trends and top restaurant insights, empowering users with actionable financial data for informed decisions.
+● Utilized advanced JavaScript and dynamic charting libraries to effectively present complex expenditure data in a clear, digestible, and visually engaging format for improved understanding.
+Fat Loss Diet Plan Creator
+● Engineered a web application capable of generating personalized Kerala-style diet plans, incorporating advanced features for precise calorie calculation and optimal water intake tracking.
+● Integrated an efficient automated grocery list generation function, significantly streamlining meal preparation workflows and simplifying the user's adherence to their diet regimen.
+● Crafted a modern, intuitive, and highly user-friendly interface, ensuring an exceptional user experience for effortless navigation and efficient, personalized meal planning.
+Photo Tagging Privacy System (M.Tech)
+● Developed an advanced photo privacy system utilizing OpenCV for accurate facial recognition in group photographs, significantly enhancing user control over image tagging permissions.
+● Implemented a robust consent-based tagging mechanism, requiring explicit user permission before individuals are identified and tagged in shared digital images, prioritizing privacy.
+● Significantly improved photo privacy by empowering users with granular control over their digital images, directly addressing critical concerns regarding personal data sharing and security.
+Online Transaction Security System (B.Tech)
+● Designed and developed a critical security module for online applications, specifically engineered to safeguard sensitive card verification value (CVV) information effectively.
+● Employed industry-standard encryption methods to fortify the protection of financial transaction data, minimizing vulnerabilities to potential breaches and unauthorized access attempts.
+● Enhanced overall system security by implementing preventative measures against unauthorized access and data compromise, ensuring a high level of trust in online financial transactions. EDUCATION
+M. Tech- Computer Science & Engineering | APJ Abdul Kalam Technological University (KTU) | Kerala, India | 2017- 2019
+B. Tech- Computer Science & Engineering | Mahatma Gandhi University | Kerala, India | 2013-2017 ADDITIONAL INFORMATION
+Languages : English, Hindi, Malayalam
+Passport Number : P4789086 | Expiry: 21/02/2027
+Visa Status : Work Visa
+Nationality : Indian
+Availability : 1 Month Notice Period
+References : Available Upon Request
